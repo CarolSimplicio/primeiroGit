@@ -1,0 +1,21 @@
+* {
+    background-color: antiquewhite;
+    color: black;
+}
+
+.botao {
+    background-color: aqua;
+    color: black;
+    cursor: pointer;
+    border-radius: 30px;
+    padding: 10px 10px 10px;
+}
+
+.texto-git {
+    margin-left: 42%;
+}
+
+.form {
+    padding: 30px 30px 30px;
+    margin-left: 17%;
+}
